@@ -35,7 +35,7 @@ long long sum_constant(long long n) {
 
 int main(){
     // time_taken = ((double)(end - start)) / CLOCKS_PER_SEC;
-    int n=200000;
+    int n=40000;
     clock_t start, end;
     double time_taken;
     start = clock();
