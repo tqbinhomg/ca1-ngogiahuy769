@@ -8,11 +8,7 @@ int main()
 {
     int n = 5;
     int mangA[n];
-    
-    
     nhapMang(mangA, n);
-    
-    printf("\n--- Mang vua nhap ---\n");
     xuatMang(mangA, n);
     
     return 0;
